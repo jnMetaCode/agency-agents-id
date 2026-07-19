@@ -56,6 +56,8 @@ npm i agency-agents-id
 
 Di workflow, set `agents_dir: "agency-agents-id"` — atau pilih **Bahasa Indonesia** dari dropdown library di halaman "Build a Team" pada Studio web:
 
+Atau jelajahi 187 agent secara online (tanpa instal): [**ao.aiolaola.com/experts?lib=id**](https://ao.aiolaola.com/experts?lib=id)
+
 <p align="center"><img src="assets/studio-role-lib.png" width="800" alt="AO Studio — library Bahasa Indonesia dipilih"></p>
 
 <p align="center">
