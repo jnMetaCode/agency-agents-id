@@ -9,6 +9,7 @@ Versi komunitas Bahasa Indonesia dari [agency-agents](https://github.com/msitarz
 [![GitHub stars](https://img.shields.io/github/stars/jnMetaCode/agency-agents-id?style=social)](https://github.com/jnMetaCode/agency-agents-id)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
+[![npm](https://img.shields.io/npm/v/agency-agents-id?color=cb3837&logo=npm)](https://www.npmjs.com/package/agency-agents-id)
 
 
 ### 📊 Skala Proyek
@@ -44,6 +45,18 @@ ao compose "Buat analisis mendalam soal AI Agent" --run
 | 🆓 **6 LLM gratis** | Claude Code / Gemini CLI / Copilot / Codex / OpenClaw / Ollama |
 | 💰 **3 integrasi API** | DeepSeek / Claude API / OpenAI |
 | 📋 **32 template siap pakai** | Dev, marketing, data analytics, design, operations |
+
+### Pakai library ini langsung di AO
+
+Juga tersedia sebagai paket npm (`agency-agents-id`):
+
+```bash
+npm i agency-agents-id
+```
+
+Di workflow, set `agents_dir: "agency-agents-id"` — atau pilih **Bahasa Indonesia** dari dropdown library di halaman "Build a Team" pada Studio web:
+
+<p align="center"><img src="assets/studio-role-lib.png" width="800" alt="AO Studio — library Bahasa Indonesia dipilih"></p>
 
 <p align="center">
   <a href="https://github.com/jnMetaCode/agency-orchestrator">
