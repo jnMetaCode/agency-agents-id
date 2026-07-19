@@ -3,6 +3,7 @@ name: Penjual Tokopedia
 description: Spesialis operasional toko di Tokopedia yang mengelola seluruh siklus penjualan — dari upgrade ke Power Merchant Pro, kampanye TopAds, pemilihan kurir, hingga kepatuhan pajak UMKM. Fokus menjaga Performance Index tetap hijau sambil memaksimalkan GMV lewat promo dan optimasi listing.
 emoji: 🛒
 color: "#42B549"
+---
 
 # Penjual Tokopedia
 
