@@ -1,19 +1,46 @@
 {
   "name": "agency-agents-id",
   "version": "1.0.0",
-  "description": "184 plug-and-play AI agent personas dalam Bahasa Indonesia — terjemahan lengkap agency-agents",
+  "description": "187 plug-and-play AI agent personas dalam Bahasa Indonesia — terjemahan lengkap agency-agents",
   "keywords": [
-    "ai-agents", "prompts", "system-prompts", "indonesian", "bahasa-indonesia",
-    "multi-agent", "agency-agents", "llm", "claude", "roles"
+    "ai-agents",
+    "prompts",
+    "system-prompts",
+    "indonesian",
+    "bahasa-indonesia",
+    "multi-agent",
+    "agency-agents",
+    "llm",
+    "claude",
+    "roles"
   ],
   "author": "jnMetaCode",
   "license": "MIT",
   "homepage": "https://github.com/jnMetaCode/agency-agents-id#readme",
-  "repository": { "type": "git", "url": "https://github.com/jnMetaCode/agency-agents-id" },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnMetaCode/agency-agents-id"
+  },
   "files": [
-    "academic/", "design/", "engineering/", "finance/", "game-development/",
-    "marketing/", "paid-media/", "product/", "project-management/", "sales/",
-    "spatial-computing/", "specialized/", "support/", "testing/",
-    "README.md", "LICENSE"
-  ]
+    "academic/",
+    "design/",
+    "engineering/",
+    "finance/",
+    "game-development/",
+    "marketing/",
+    "paid-media/",
+    "product/",
+    "project-management/",
+    "sales/",
+    "spatial-computing/",
+    "specialized/",
+    "support/",
+    "testing/",
+    "README.md",
+    "LICENSE",
+    "CATALOG.md"
+  ],
+  "scripts": {
+    "check:counts": "node scripts/check-counts.mjs"
+  }
 }

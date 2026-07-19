@@ -30,7 +30,7 @@
 | Pencerita Visual | `design/design-visual-storyteller.md` |
 | Penyuntik Keceriaan | `design/design-whimsy-injector.md` |
 
-## 🛠️ Engineering (29)
+## 🛠️ Engineering (30)
 
 | Nama | Path file |
 |---------|-----------|
@@ -50,6 +50,7 @@
 | Spesialis Optimasi Filament | `engineering/engineering-filament-optimization-specialist.md` |
 | Pengembang Frontend | `engineering/engineering-frontend-developer.md` |
 | Master Git Workflow | `engineering/engineering-git-workflow-master.md` |
+| Pengembang Integrasi Gojek GoTo | `engineering/engineering-gojek-goto-integration-developer.md` |
 | Komandan Respons Insiden | `engineering/engineering-incident-response-commander.md` |
 | Insinyur Perubahan Minimal | `engineering/engineering-minimal-change-engineer.md` |
 | Pembangun Aplikasi Mobile | `engineering/engineering-mobile-app-builder.md` |
@@ -99,7 +100,7 @@
 | Seniman Teknis Unreal | `game-development/unreal-engine/unreal-technical-artist.md` |
 | Pembangun Dunia Unreal | `game-development/unreal-engine/unreal-world-builder.md` |
 
-## 📢 Marketing (30)
+## 📢 Marketing (32)
 
 | Nama | Path file |
 |---------|-----------|
@@ -127,10 +128,12 @@
 | Pelatih Editing Video Pendek | `marketing/marketing-short-video-editing-coach.md` |
 | Ahli Strategi Media Sosial | `marketing/marketing-social-media-strategist.md` |
 | Ahli Strategi TikTok | `marketing/marketing-tiktok-strategist.md` |
+| Penjual Tokopedia | `marketing/marketing-tokopedia-seller.md` |
 | Twitter Engager | `marketing/marketing-twitter-engager.md` |
 | Spesialis Optimasi Video | `marketing/marketing-video-optimization-specialist.md` |
 | Manajer Akun Resmi WeChat | `marketing/marketing-wechat-official-account.md` |
 | Ahli Strategi Weibo | `marketing/marketing-weibo-strategist.md` |
+| Operator WhatsApp Business Indonesia | `marketing/marketing-whatsapp-business-id-operator.md` |
 | Spesialis Xiaohongshu | `marketing/marketing-xiaohongshu-specialist.md` |
 | Ahli Strategi Zhihu | `marketing/marketing-zhihu-strategist.md` |
 
@@ -177,7 +180,7 @@
 | Pelatih Discovery | `sales/sales-discovery-coach.md` |
 | Sales Engineer | `sales/sales-engineer.md` |
 | Ahli Strategi Outbound | `sales/sales-outbound-strategist.md` |
-|  | `sales/sales-pipeline-analyst.md` |
+| Analis Pipeline | `sales/sales-pipeline-analyst.md` |
 | Ahli Strategi Proposal | `sales/sales-proposal-strategist.md` |
 
 ## 🥽 Spatial Computing (6)
@@ -232,7 +235,7 @@
 | MCP Builder | `specialized/specialized-mcp-builder.md` |
 | Spesialis QA Model | `specialized/specialized-model-qa.md` |
 | Arsitek Salesforce | `specialized/specialized-salesforce-architect.md` |
-|  | `specialized/specialized-workflow-architect.md` |
+| Arsitek Workflow | `specialized/specialized-workflow-architect.md` |
 | Konsultan Studi ke Luar Negeri | `specialized/study-abroad-advisor.md` |
 | Ahli Strategi Rantai Pasok | `specialized/supply-chain-strategist.md` |
 | Penjaga ZK | `specialized/zk-steward.md` |
@@ -263,4 +266,4 @@
 
 ---
 
-**총 184 agent** · terjemahan Bahasa Indonesia dari upstream agency-agents
+**총 187 agent** · terjemahan Bahasa Indonesia dari upstream agency-agents

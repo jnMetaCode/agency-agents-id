@@ -2,7 +2,7 @@
 
 🌐 **Bahasa Indonesia** | [English (upstream)](https://github.com/msitarzewski/agency-agents) | [简体中文](https://github.com/jnMetaCode/agency-agents-zh) | [한국어](https://github.com/jnMetaCode/agency-agents-ko) | [Português (BR)](https://github.com/jnMetaCode/agency-agents-pt-BR) | [Русский](https://github.com/jnMetaCode/agency-agents-ru)
 
-> **184 persona AI agent yang siap pakai** — mencakup engineering, design, marketing, product, game, security, finance, dan 18 divisi lainnya. Bukan template prompt generik: setiap agent punya persona, workflow profesional, dan deliverable yang jelas. Mendukung Claude Code / Cursor / Copilot dan 17 alat AI coding lainnya.
+> **187 persona AI agent yang siap pakai** — mencakup engineering, design, marketing, product, game, security, finance, dan 18 divisi lainnya. Bukan template prompt generik: setiap agent punya persona, workflow profesional, dan deliverable yang jelas. Mendukung Claude Code / Cursor / Copilot dan 17 alat AI coding lainnya.
 
 Versi komunitas Bahasa Indonesia dari [agency-agents](https://github.com/msitarzewski/agency-agents). Terjemahan lengkap 184 agent upstream. **PR dipersilakan** untuk agent khusus pasar Indonesia (Tokopedia, Shopee ID, GoTo / Gojek, WhatsApp Business, OVO, GoPay, dll.).
 
@@ -15,7 +15,7 @@ Versi komunitas Bahasa Indonesia dari [agency-agents](https://github.com/msitarz
 
 | 🤖 AI Agent | 🌏 Terjemahan upstream | 🇮🇩 Original Indonesia | 🧠 Alat | 🏢 Divisi |
 |:---:|:---:|:---:|:---:|:---:|
-| **184** | **184** | **PRs welcome** | **17** | **18** |
+| **187** | **184** | **3** | **17** | **18** |
 
 ---
 
@@ -47,7 +47,7 @@ ao compose "Buat analisis mendalam soal AI Agent" --run
 
 <p align="center">
   <a href="https://github.com/jnMetaCode/agency-orchestrator">
-    <strong>⭐ Lihat Agency Orchestrator — kerahkan 184 agent untuk Anda →</strong>
+    <strong>⭐ Lihat Agency Orchestrator — kerahkan 187 agent untuk Anda →</strong>
   </a>
 </p>
 
@@ -93,7 +93,7 @@ Lihat [CATALOG.md](CATALOG.md), salin/adaptasi sesuai kebutuhan.
 
 ## Roster agent
 
-Katalog lengkap 184 agent: **[CATALOG.md](CATALOG.md)**. Ringkasan per divisi:
+Katalog lengkap 187 agent: **[CATALOG.md](CATALOG.md)**. Ringkasan per divisi:
 
 | Divisi | Agent | Peran khas |
 |--------|-------|------------|
@@ -161,13 +161,13 @@ Terjemahan, perbaikan konten, agent baru khusus Indonesia — semua welcome. Det
 
 | Proyek | Posisi | Ringkasan |
 |--------|--------|-----------|
-| **Proyek ini** (agency-agents-id) | 🎭 Library persona berbahasa Indonesia | 184 pakar AI **siap pakai**, PR untuk pasar Indonesia welcome |
+| **Proyek ini** (agency-agents-id) | 🎭 Library persona berbahasa Indonesia | 187 pakar AI **siap pakai**, PR untuk pasar Indonesia welcome |
 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) ![](https://img.shields.io/github/stars/jnMetaCode/agency-agents-zh?style=flat&label=⭐) | 🇨🇳 Versi China | 215 agent (165 terjemahan + 50 original pasar China) |
-| [agency-agents-ko](https://github.com/jnMetaCode/agency-agents-ko) | 🇰🇷 Versi Korea | 184 agent terjemahan |
-| [agency-agents-pt-BR](https://github.com/jnMetaCode/agency-agents-pt-BR) | 🇧🇷 Versi Brasil | 184 agent terjemahan |
-| [agency-agents-ru](https://github.com/jnMetaCode/agency-agents-ru) | 🇷🇺 Versi Rusia | 184 agent terjemahan |
+| [agency-agents-ko](https://github.com/jnMetaCode/agency-agents-ko) | 🇰🇷 Versi Korea | 187 agent terjemahan |
+| [agency-agents-pt-BR](https://github.com/jnMetaCode/agency-agents-pt-BR) | 🇧🇷 Versi Brasil | 187 agent terjemahan |
+| [agency-agents-ru](https://github.com/jnMetaCode/agency-agents-ru) | 🇷🇺 Versi Rusia | 187 agent terjemahan |
 | [agency-agents](https://github.com/msitarzewski/agency-agents) | 🌏 Upstream Inggris | 184 agent original |
-| [agency-orchestrator](https://github.com/jnMetaCode/agency-orchestrator) | 🚀 Engine orchestration | Satu kalimat → 184 pakar berkolaborasi, **hasil dalam menit** |
+| [agency-orchestrator](https://github.com/jnMetaCode/agency-orchestrator) | 🚀 Engine orchestration | Satu kalimat → 187 pakar berkolaborasi, **hasil dalam menit** |
 
 ---
 
@@ -187,7 +187,7 @@ MIT License — bebas digunakan untuk komersial atau pribadi.
 
 <div align="center">
 
-**184 persona AI agent, 17 alat didukung, plug-and-play**
+**187 persona AI agent, 17 alat didukung, plug-and-play**
 
 [⭐ Star proyek](https://github.com/jnMetaCode/agency-agents-id) · [Buat Issue](https://github.com/jnMetaCode/agency-agents-id/issues) · [Kontribusi](https://github.com/jnMetaCode/agency-agents-id/pulls)
 
