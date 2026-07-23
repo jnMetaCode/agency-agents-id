@@ -11,6 +11,8 @@ Versi komunitas Bahasa Indonesia dari [agency-agents](https://github.com/msitarz
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 [![npm](https://img.shields.io/npm/v/agency-agents-id?color=cb3837&logo=npm)](https://www.npmjs.com/package/agency-agents-id)
 
+> 📖 **Kursus gratis** → [Learn AI Coding](https://aiolaola.com/en?utm_source=github&utm_campaign=agents-id)(180 pelajaran) + [Build AI Agents](https://aiolaola.com/en/course/agents?utm_source=github&utm_campaign=agents-id)(40 pelajaran) — kursus praktis dalam bahasa Inggris
+
 
 ### 📊 Skala Proyek
 
